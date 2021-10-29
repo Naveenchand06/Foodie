@@ -4,7 +4,7 @@ A new Flutter project for Food lovers.
 
 
 <p float="center">
-    <img src="https://raw.githubusercontent.com/Naveenchand06/foodie/master/images/Screenshot_1629787552.png" width="27%" style="margin: 0px 0px 0px 0px;">
+    <img src="https://raw.githubusercontent.com/Naveenchand06/foodie/master/images/foodie.png" width="60%" style="margin: 10px 10px 10px 10px;">
  
  </p> 
 
