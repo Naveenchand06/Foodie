@@ -2,6 +2,14 @@
 
 A new Flutter project for Food lovers.
 
+
+<p float="center">
+    <img src="https://raw.githubusercontent.com/Naveenchand06/foodie/master/images/foodie.png" width="40%" height="30%" style="margin: 10px 10px 10px 10px;">
+ 
+ </p> 
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
