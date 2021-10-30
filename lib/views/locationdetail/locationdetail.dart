@@ -19,7 +19,7 @@ class _LocationDetailState extends State<LocationDetail> {
       body: Container(
         child: Column(
           children: [
-            Expanded(child: Container(child: MapScreen())),
+            
             Container(
               height: MediaQuery.of(context).size.height / 2,
               width: MediaQuery.of(context).size.width,
@@ -40,22 +40,4 @@ class _LocationDetailState extends State<LocationDetail> {
   }
 }
 
-class MapScreen extends StatefulWidget {
-  @override
-  _MapScreenState createState() => _MapScreenState();
-}
 
-class _MapScreenState extends State<MapScreen> {
-  static const _initialPosition = CameraPosition(target: LatLng(9.9252, 78.1198), zoom: 11.0);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: GoogleMap(
-        mapToolbarEnabled: false,
-        myLocationButtonEnabled: false,
-        initialCameraPosition: _initialPosition,
-      ),
-    );
-  }
-}
