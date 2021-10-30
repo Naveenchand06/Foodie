@@ -4,7 +4,7 @@ import 'package:foodie/utils/shadowstyles.dart';
 import 'package:foodie/widgets/cards/detail_card.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-const apiKey = 'AIzaSyBsgL7ymdYBG12nLBVDjlxsGjky-YkMxDM';
+
 
 class LocationDetail extends StatefulWidget {
   @override
